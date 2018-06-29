@@ -1,0 +1,12 @@
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\bin\Debug\netcoreapp2.0\SSD130.deps.json
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\bin\Debug\netcoreapp2.0\SSD130.dll
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\bin\Debug\netcoreapp2.0\i2c-netcore.dll
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Debug\netcoreapp2.0\SSD130.csprojResolveAssemblyReference.cache
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Debug\netcoreapp2.0\SSD130.csproj.CoreCompileInputs.cache
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Debug\netcoreapp2.0\SSD130.AssemblyInfoInputs.cache
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Debug\netcoreapp2.0\SSD130.AssemblyInfo.cs
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Debug\netcoreapp2.0\SSD130.csproj.CopyComplete
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\bin\Debug\netcoreapp2.0\SSD130.pdb
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\bin\Debug\netcoreapp2.0\i2c-netcore.pdb
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Debug\netcoreapp2.0\SSD130.dll
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Debug\netcoreapp2.0\SSD130.pdb

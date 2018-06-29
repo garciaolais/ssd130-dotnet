@@ -1,0 +1,10 @@
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\bin\Release\netcoreapp2.0\SSD130.deps.json
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\bin\Release\netcoreapp2.0\SSD130.dll
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\bin\Release\netcoreapp2.0\SSD130.pdb
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Release\netcoreapp2.0\SSD130.csproj.CoreCompileInputs.cache
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Release\netcoreapp2.0\SSD130.AssemblyInfoInputs.cache
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Release\netcoreapp2.0\SSD130.AssemblyInfo.cs
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Release\netcoreapp2.0\SSD130.csproj.CopyComplete
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Release\netcoreapp2.0\SSD130.dll
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\obj\Release\netcoreapp2.0\SSD130.pdb
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130\bin\Release\netcoreapp2.0\i2c-dotnet.dll
